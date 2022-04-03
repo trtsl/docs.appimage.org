@@ -69,7 +69,7 @@ Setting up FUSE on openSUSE
 
 Install the required package::
 
-  > sudo zypper install fuse
+  > sudo zypper install fuse libfuse2
 
 FUSE should now be working.
 
